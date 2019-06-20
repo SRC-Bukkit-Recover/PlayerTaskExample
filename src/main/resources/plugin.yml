@@ -1,0 +1,5 @@
+name: PlayerTaskExample
+version: ${project.version}
+main: me.hsgamer.playertaskexample.PlayerTaskExample
+api-version: 1.13
+authors: [HSGamer]
